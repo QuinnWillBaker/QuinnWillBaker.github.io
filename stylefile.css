@@ -1,11 +1,22 @@
 body{background-color:black}
 
 .swag{
-  color:red;
+  color:green;
 
 }
 
-.swag{font-size: 20px;}
+.swerve{color: orange;
+
+}
+
+.holla{color: violet;
+
+}
+
+#cool{font-size: 8px; 
+
+}
+
 
 p {
   font-weight: bold;
