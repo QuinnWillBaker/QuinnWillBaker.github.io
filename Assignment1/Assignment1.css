@@ -1,0 +1,19 @@
+.h1{
+font-size:20px;
+position: relative;
+}
+
+.h2{
+color:red;
+position: absolute;
+}
+
+.Funnytext{font-family:"Comic Sans", Sans-Serif;}
+
+#capitalize{
+  text-transform: capitalize;
+}
+
+#cool{
+  position: fixed;
+}
