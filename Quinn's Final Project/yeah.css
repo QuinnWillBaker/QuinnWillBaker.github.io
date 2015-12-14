@@ -1,0 +1,69 @@
+body{
+  background-color: maroon;
+
+}
+
+#banner{
+position: absolute;
+top: 0px;
+left: 0px;
+height: 140px;
+color: red;
+background-image: url("image/memebanner.jpeg");
+	background-repeat: repeat;
+  min-width: 100%;
+}
+#banner h1{
+position: absolute;
+top: 0px;
+left: 0px;
+color: red;
+min-width: 100%;
+text-align: center;
+}
+#navbar{
+        position: fixed;
+        background-color: grey;
+        top: 140px;
+        left: 0px;
+        min-width: 200px;
+        height: 100%;
+        max-width: 200px;
+}
+#biggie{
+  left: 200px;
+  top: 140px;
+  position:absolute;
+  right: 200px;
+
+}
+.hyperlink{
+  position: relative;
+  min-width: 100%;
+  text-align: center;
+}
+#rightbar{
+  position: fixed;
+  top: 140px;
+  right: 0px;
+  min-width: 200px;
+  max-width: 200px;
+  height: 100%;
+  background-color: grey;
+}
+body #drunkvision{
+  text-shadow: 2px 2px black;
+
+}
+
+#footer{
+  position: absolute;
+  bottom: 0px;
+  color: grey;
+  min-height: 100px;
+  min-width: 100%;
+  left: 0px;
+  float: left;
+
+
+}
